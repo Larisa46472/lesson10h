@@ -19,7 +19,8 @@
 h2 {
    padding-top: 30px; 
    padding-bottom: 15px;
-   margin: auto;
+   margin-top: 40px;
+   text-align: left;
     
 }
 span {
@@ -62,7 +63,7 @@ img {
     max-width: 320px;
     display:flex; 
     justify-content: space-between;
-    display:flex justifay-content;
+    
     align-items: center;
     
 }
